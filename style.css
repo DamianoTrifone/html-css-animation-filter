@@ -77,6 +77,12 @@
     filter: sepia(0.6);
 }
 
+.ex-8-img:hover{
+    filter: grayscale(0.6);
+    transform: rotate(45deg);
+    border-radius: 10%;
+}
+
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;

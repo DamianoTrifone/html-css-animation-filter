@@ -107,6 +107,9 @@
 
 .ex-11-icon {
     font-size: 60px;
+}
+
+.ex-11-icon:hover{
     animation: rotazione 2s linear;
 }
 
